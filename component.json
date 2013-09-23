@@ -1,12 +1,24 @@
 {
   "name": "swipe-amd",
   "version": "2.0.1",
-  "main": ["./swipe.js"],
+  "main": [
+    "./swipe.js"
+  ],
   "author": "Brad Birdsall, Matt Bilson",
   "license": "MIT",
   "ignore": [
     "**/*.html",
     "**/*.css",
-    "Gruntfile.js"
-  ]
+    "Gruntfile.js",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/mattbilson/Swipe",
+  "authors": [
+    "Matt Bilson <matt@mattbilson.com>"
+  ],
+  "private": true
 }
