@@ -1,8 +1,8 @@
 {
-  "name": "Swipe",
-  "version": "2.0.0",
+  "name": "Swipe - AMD",
+  "version": "2.0.1",
   "main": ["./swipe.js"],
-  "author": "Brad Birdsall",
+  "author": "Brad Birdsall, Matt Bilson",
   "license": "MIT",
   "ignore": [
     "**/*.html",
